@@ -7,9 +7,9 @@
   
   <p align="middle">
   <a href="https://www.linkedin.com/in/sinhaanshuman27/">
-  <img src="https://img.icons8.com/doodle/344/linkedin--v2.png" width="60px">
+  <img src="https://img.icons8.com/doodle/344/linkedin--v2.png" width="80px">
   </a>
-  <a href="https://www.hackerrank.com/sinhaanshuman27?hr_r=1">
+  <a href="https://www.hackerrank.com/sinhaanshuman27?hr_r=1" width="80px">
   <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-green-tal-revivo.png">
   </a> 
 </div>
