@@ -2,4 +2,4 @@
 
 ## Connect with me:
 
-[<img align="left" alt="linkedin" width="30px" src="https://iconape.com/hackerrank-logo-icon-svg-png.html" />][https://www.linkedin.com/in/sinhaanshuman27/]
+[<img align="left" alt="linkedin" width="30px" src="https://www.freepik.com/free-icon/linkedin_14373514.htm#query=linkedin&position=6&from_view=search" />][https://www.linkedin.com/in/sinhaanshuman27/]
