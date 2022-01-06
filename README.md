@@ -3,7 +3,7 @@
   
 <h1>Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> I'm Anshuman.
   
-## Connect with me:
+## Find me:
   
   <p align="left">
   <a href="https://www.linkedin.com/in/sinhaanshuman27/">
