@@ -19,4 +19,4 @@
 ![Anshuman's Activity Graph](https://activity-graph.herokuapp.com/graph?username=sinhaanshuman27&theme=react-dark&hide_border=true&area=true)
   
 
-![](https://komarev.com/ghpvc/?username=sinhaanshuman27&style=plastic)
+![](https://komarev.com/ghpvc/?username=sinhaanshuman27&style=plastic&label=2142)
