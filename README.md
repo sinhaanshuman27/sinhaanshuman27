@@ -3,8 +3,6 @@
   
 <h1>Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> I'm Anshuman.
   
-![](https://github.com/sinhaanshuman27?tab=repositories?username=sinhaanshuman27&style=plastic)
-  
 ## Find me on:
   
   <p align="left">
