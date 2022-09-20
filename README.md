@@ -6,7 +6,6 @@ Final-year Undergraduate
 
 * ✉️  You can contact me at [sinhaanshuman27@gmail.com](mailto:sinhaanshuman27@gmail.com)
 
-### Badges
 
 <b>My GitHub Stats</b>
 
