@@ -6,11 +6,6 @@ Final-year Undergraduate
 
 * ✉️  You can contact me at [sinhaanshuman27@gmail.com](mailto:sinhaanshuman27@gmail.com)
 
-
-### Socials
-
-<p align="left"> <a href="https://www.twitter.com/sinhaanshuman27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
